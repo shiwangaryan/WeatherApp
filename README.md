@@ -5,11 +5,9 @@
 <h2>Project Screenshots:</h2>
 </br>
 <p>
-<img src="![image](https://github.com/user-attachments/assets/2adfbffd-2d9e-4aa6-8120-319a1db4f06c)
-" alt="project-screenshot" width="230" height="460/">
+<img src="https://github.com/user-attachments/assets/2adfbffd-2d9e-4aa6-8120-319a1db4f06c" alt="project-screenshot" width="230" height="460/">
 
-<img src="![image](https://github.com/user-attachments/assets/4af5f3b1-0819-4e2f-a224-5230203849b6)
-" alt="project-screenshot" width="230" height="460/">
+<img src="https://github.com/user-attachments/assets/4af5f3b1-0819-4e2f-a224-5230203849b6" alt="project-screenshot" width="230" height="460/">
 
 </p>
 
