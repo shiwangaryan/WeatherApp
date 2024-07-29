@@ -1,13 +1,15 @@
 # Weather App
 
 <p id="description">A minimalistic weather app made in Flutter using, weather API and lottie animations.</p>
-</br>
+
 <h2>Project Screenshots:</h2>
 </br>
 <p>
-<img src="https://drive.google.com/file/d/15AAF5imBD2mNG5Yg0coaQ19pSzBabJus/view?usp=sharing" alt="project-screenshot" width="230" height="460/">
+<img src="![image](https://github.com/user-attachments/assets/2adfbffd-2d9e-4aa6-8120-319a1db4f06c)
+" alt="project-screenshot" width="230" height="460/">
 
-<img src="https://drive.google.com/file/d/1-OZIVNe1x_EhUb0f3aukMeqma156nQE5/view?usp=sharing" alt="project-screenshot" width="230" height="460/">
+<img src="![image](https://github.com/user-attachments/assets/4af5f3b1-0819-4e2f-a224-5230203849b6)
+" alt="project-screenshot" width="230" height="460/">
 
 </p>
 
